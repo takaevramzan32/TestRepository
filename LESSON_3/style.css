@@ -1,0 +1,17 @@
+h1 {
+    color: red;
+    font-size: 20px;
+
+}
+b {
+    color: blue;
+}
+.first {
+    font-size: 40px;
+}
+.second{
+    color: magenta;
+}
+#one {
+    font-size: 31px;
+}

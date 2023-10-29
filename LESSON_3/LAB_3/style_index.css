@@ -1,0 +1,61 @@
+
+.table_1, .table_2 {
+    border-collapse: collapse;
+    border: 1px solid gray;
+ }
+ td {
+    border: 1px solid gray
+ }
+a {
+    color:green;
+}
+a:link {
+    color: blue;
+    padding: 2px;
+}
+a:hover {
+    background: green;
+    color: white;
+}
+ul {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+h1 {
+    color: red;
+}
+.overview {
+    font-family: arial;
+}
+b {
+    color: rebeccapurple;
+}
+.table_name {
+    color: orange;
+}
+.first_line {
+    color: blue;
+}
+.even_line {
+    background-color: rgb(175, 175, 175);
+}
+.column_3 {
+    color: brown
+}
+.td_3 {
+    border: 0px;
+    width: 100%;
+}
+* {
+    vertical-align: top;
+    text-align: left;
+}
+.img_1 {
+    width: 400px;
+    border-radius: 100%;
+}
+.img_2 {
+    width: 400px;
+    border-radius: 50px 0 50px 0
+}
