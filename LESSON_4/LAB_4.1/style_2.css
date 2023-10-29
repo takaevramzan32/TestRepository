@@ -1,0 +1,30 @@
+.parent {
+    display: flex;
+    width: 1140px;
+    justify-content: space-between;
+}
+.block_1:empty {
+    background-color: red;
+    width: 15%;
+    height: 150px;
+}
+.block_2:empty {
+    background-color: green;
+    width: 15%;
+    height: 150px;
+}
+.block_3:empty {
+    background-color: blue;
+    width: 15%;
+    height: 150px;
+}
+.block_4:empty {
+    background-color: yellow;
+    width: 15%;
+    height: 150px;
+}
+.block_5:empty {
+    background-color: black;
+    width: 15%;
+    height: 150px;
+}
