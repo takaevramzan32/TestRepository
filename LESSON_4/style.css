@@ -1,7 +1,31 @@
-h1 {
-    font-size: 16px;
-    background-color: red;
+.parent-1 {
+    background-color: yellow;
+    display: flex;
+    margin-bottom: 50px;
 }
-b {
+.block-1 {
+    background-color: red;
+    width: 50%;
+    margin-right: 100px;
+}
+.block-2 {
     background-color: blue;
+    width: 50%;
+}
+.parent-2 {
+    display: flex;
+    background-color: aqua;
+    justify-content: space-between;
+}
+.block-3 {
+    background-color: white;
+}
+.block-4 {
+    background-color: orange;
+}
+.block-5 {
+    background-color: green;
+}
+.block-6 {
+    background-color: brown;
 }
