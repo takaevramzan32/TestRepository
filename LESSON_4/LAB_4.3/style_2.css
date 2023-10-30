@@ -1,0 +1,18 @@
+.body, .parent_2, .child_1, .child_2 {
+    display: flex;
+}
+.body {
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.parent_2 {
+    width: 1000px;
+}
+.child_2
+{margin-top: 50px;}
+.child_3 {
+    width: 45%;
+}
+.parent_2, .child_1, .child_2 {
+    justify-content: space-between;
+}
