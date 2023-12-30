@@ -1,2 +1,2 @@
 # TestRepository
-This my repo, where i upload my education task's
+This is my repository where I upload my study assignments.
