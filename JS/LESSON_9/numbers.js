@@ -47,16 +47,16 @@ let euro1000 = euroToRub * 1000;
 let quaterEagleToRub = dollarToRub * 2.5;
 
 //курс биткоина разделенный на 10000
-
+let crushedBitcoin = bitcoinToRub / 10000;
 
 //стоимость проезда до места обучения разделенная на курс доллара
-
+let ticketPriecDollar = costToStudy / dollarToRub;
 
 //количество человек в семье минус количество братьев минус количество сестер
-
+let familyWithoutKids = numOfFamilyMembers - brothersAndSisters;
 
 //0 деленный на твой возраст
-
+let zeroCrushedAge = 0 / myAge;
 
 //35 минус твой возраст
-
+let decreasedAge = 35 - myAge;
